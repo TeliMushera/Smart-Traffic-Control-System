@@ -32,10 +32,27 @@ The project simulates how **intelligent traffic management** can reduce congesti
 
 ---
 
+## 🛠 Technologies Used
+
+[YOLOv5](https://github.com/ultralytics/yolov5) → For real-time vehicle detection.
+
+[PyTorch](https://pytorch.org/) → Deep learning framework powering YOLOv5.
+
+[OpenCV](https://opencv.org/) → For video processing and visualization (traffic lights, bounding boxes).
+
+[NumPy](https://numpy.org/) → For handling numerical computations and detection coordinates.
+
+[Roboflow](https://roboflow.com/) → Dataset management and preprocessing if you train custom models.
+
+[Python](https://www.python.org/) → The core programming language used.
+
+---
+
 ## 📊 Flowchart
 <p align="center">
 <img height="500" alt="START (9)" src="https://github.com/user-attachments/assets/9b0d2d9a-0361-4a14-baed-2a1c745b80b4" />
 </p>
+
 ---
 
 ## ✨ Installation
