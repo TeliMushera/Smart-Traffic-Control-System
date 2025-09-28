@@ -33,8 +33,9 @@ The project simulates how **intelligent traffic management** can reduce congesti
 ---
 
 ## 📊 Flowchart
+<p align="center">
 <img height="500" alt="START (9)" src="https://github.com/user-attachments/assets/9b0d2d9a-0361-4a14-baed-2a1c745b80b4" />
-
+</p>
 ---
 
 ## ✨ Installation
